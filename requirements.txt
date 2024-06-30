@@ -1,0 +1,8 @@
+seaborn
+scipy
+pandas
+matplotlib
+torch
+torchvision
+hal-cgp
+opencv-python
